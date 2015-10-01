@@ -8,7 +8,6 @@
 
 var favSong = "Ophelia";
 var favBand = "The Band";
-var leadSinger = "Levon Helm";
 var bandStatus = "False";
 var bandFormed = "1968"
 var birthYear = "1989";
@@ -19,6 +18,9 @@ var birthYear = "1989";
     alert("My favorite song by " + favBand + " is " + favSong + ".");
     alert("The band formed in " + bandFormed + ", " + (birthYear-bandFormed)+ "years before I was born.");
     alert("You may be wondering if the band is still together")
+    if (bandStatus=="false"){alert("Unfortunately they are not.")}
+    else {alert("Yes they are!")};
+
 
 
 
