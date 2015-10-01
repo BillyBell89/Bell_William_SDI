@@ -8,18 +8,19 @@
 
 var favSong = "Ophelia";
 var favBand = "The Band";
-var bandStatus = "False";
-var bandFormed = "1968"
-var birthYear = "1989";
+var bandStatus = false;
+var bandFormed = 1968
+var birthYear = 1989;
 
 
 
     alert("My name is William Bell and I want to tell you about my favorite band, " + favBand + ".");
     alert("My favorite song by " + favBand + " is " + favSong + ".");
     alert("The band formed in " + bandFormed + ", " + (birthYear-bandFormed)+ "years before I was born.");
-    alert("You may be wondering if the band is still together")
-    if (bandStatus=="false"){alert("Unfortunately they are not.")}
+    alert("You may be wondering if the band is still together.")
+    if (bandStatus==false){alert("Unfortunately they are not.")}
     else {alert("Yes they are!")};
+
 
 
 
