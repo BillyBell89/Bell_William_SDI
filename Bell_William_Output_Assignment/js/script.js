@@ -12,5 +12,26 @@ var leadSinger = "Levon Helm";
 var bandStatus = "False";
 var bandFormed = "1968"
 
+alert("My name is William Bell and I want to tell you about my favorite band " + (favBand);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
