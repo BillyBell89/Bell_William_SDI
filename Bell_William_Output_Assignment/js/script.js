@@ -27,6 +27,16 @@ var birthYear = 1989;
     if (bandStatus==false){alert("Unfortunately they are not.")}
     else {alert("Yes they are!")};
 
+console("My name is William Bell and I want to tell you about my favorite band, " + favBand + ".");
+console("My favorite song by " + favBand + " is " + favSong + ".");
+console("The band formed in " + bandFormed + ", " + (birthYear-bandFormed)+ "years before I was born.");
+console("You may be wondering if the band is still together.");
+console("Unfortunately they are not.");
+
+
+
+
+
 
 
 
