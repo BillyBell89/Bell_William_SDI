@@ -59,8 +59,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bell_William_Expressions_Assignment/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55676854">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.49126637">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding>
                 <element signature="e#0#36#0" expanded="false" />
               </folding>
@@ -372,7 +372,13 @@
       <option name="project" value="LOCAL" />
       <updated>1444342736691</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Expressions Assignment">
+      <created>1444343157304</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1444343157304</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -541,8 +547,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bell_William_Expressions_Assignment/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55676854">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.49126637">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
             <element signature="e#0#36#0" expanded="false" />
           </folding>

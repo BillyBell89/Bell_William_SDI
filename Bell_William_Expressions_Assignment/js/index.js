@@ -15,9 +15,11 @@ var H = prompt("Please enter the height");
 var area = (L * W * H);
 
 // figure out how to display string and variable in same alert
-alert {("The area is "), area};
+//not working WHY?
+alert ("The are is" ,area);
 
 //log the answer to the console
+//working
 console.log("The area is" ,area);
 
 
