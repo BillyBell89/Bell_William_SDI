@@ -16,11 +16,13 @@ var area = (L * W * H);
 
 // figure out how to display string and variable in same alert
 //not working WHY?
-alert ("The are is" ,area);
+alert ("The area is" + area);
 
 //log the answer to the console
 //working
-console.log("The area is" ,area);
+console.log("The area is" + area);
+
+
 
 
 
