@@ -30,6 +30,13 @@ var M = prompt ("Please enter the planets mass. (in kilograms)");
 var m = prompt ("Please enter your mass. (in kilograms)");
 var r = prompt ("Please enter your distance from the center of the planet. (in kilometers)");
 
+var F = (M*m)/(r^2);
+
+
+alert ("The gravitational force is "+ F + "!");
+console.log("The gravitational force is "+ F + "!");
+
+
 
 
 
