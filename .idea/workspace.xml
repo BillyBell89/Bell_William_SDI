@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51a9ec36-de16-469d-add9-50f85776fa21" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bell_William_Expressions_Assignment/js/index.js" afterPath="$PROJECT_DIR$/Bell_William_Expressions_Assignment/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Bell_William_SDI.iws" />
@@ -59,7 +58,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bell_William_Expressions_Assignment/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.441048">
+            <state vertical-scroll-proportion="0.6877729">
               <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
                 <element signature="e#0#36#0" expanded="false" />
@@ -421,7 +420,13 @@
       <option name="project" value="LOCAL" />
       <updated>1444351862181</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Expressions Assignment">
+      <created>1444352538903</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1444352538903</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -626,7 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bell_William_Expressions_Assignment/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.441048">
+        <state vertical-scroll-proportion="0.6877729">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
             <element signature="e#0#36#0" expanded="false" />
