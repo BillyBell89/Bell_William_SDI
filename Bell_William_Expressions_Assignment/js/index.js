@@ -24,6 +24,15 @@
 
 //Actual Program to Run: Gravitational Force On Another Planet
 
+//F=(Mm)/r^2
+alert ("Let's calculate the gravitational force exerted on your body on a planet.");
+var M = prompt ("Please enter the planets mass. (in kilograms)");
+var m = prompt ("Please enter your mass. (in kilograms)");
+var r = prompt ("Please enter your distance from the center of the planet. (in kilometers)");
+
+
+
+
 
 
 
