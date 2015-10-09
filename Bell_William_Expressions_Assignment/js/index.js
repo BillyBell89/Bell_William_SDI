@@ -28,13 +28,19 @@
 alert ("Let's calculate the gravitational force exerted on your body on a planet.");
 var M = prompt ("Please enter the planets mass. (in kilograms)");
 var m = prompt ("Please enter your mass. (in kilograms)");
-var r = prompt ("Please enter your distance from the center of the planet. (in kilometers)");
+var r = prompt ("Please enter your distance from the center of the planet. (in meters)");
 
-var F = (M*m)/(r^2);
+var F = (M*m)/(Math.pow (r, 2));
 
 
-alert ("The gravitational force is "+ F + "!");
-console.log("The gravitational force is "+ F + "!");
+alert ("The gravitational force is "+ F + " kg^2/m!");
+console.log("The gravitational force is "+ F + " kg^2/m!");
+
+console.log("I calculated M=10 m=10 r=5 and got the correct answer of 4");
+console.log("I calculated M=5 m=5 r=5 and got the correct answer of 1");
+
+
+
 
 
 
