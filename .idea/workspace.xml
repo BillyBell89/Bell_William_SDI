@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51a9ec36-de16-469d-add9-50f85776fa21" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bell_William_Conditionals_Assignment/js/index.js" afterPath="$PROJECT_DIR$/Bell_William_Conditionals_Assignment/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Bell_William_SDI.iws" />
@@ -589,7 +588,13 @@
       <option name="project" value="LOCAL" />
       <updated>1444961970797</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Expressions Assignment">
+      <created>1444961995886</created>
+      <option name="number" value="00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1444961995886</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
