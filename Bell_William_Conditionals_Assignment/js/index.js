@@ -2,7 +2,10 @@
 //SDI Section 1
 
 //Body mass index
-
+age = prompt ("What is your age?")
+if(age<20){console.log("Body Mass Index is not a suitable indicator of health below the age of twenty")}
+else if(age>60){console.log("Body Mass Index is not a suitable indicator of health above age 60")}
+else{
 weight = prompt ("What is your weight? (in Kilograms)");
 height = prompt("What is your height? (in Meters)");
 //don't accept empty or 0 variable
@@ -23,8 +26,8 @@ else {
 
 BMI = (weight/height)*(1/height);
 
-console.log("Your body mass index is " + BMI + ".");
-
+console.log("Your body mass index is " + BMI + ".")
+}
 
 
 
