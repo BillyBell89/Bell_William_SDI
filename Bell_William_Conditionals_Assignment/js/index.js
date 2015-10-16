@@ -4,9 +4,12 @@
 //Body mass index
 age = prompt ("What is your age?");
 //exclude outliers
-if(age<20){console.log("Body Mass Index is not a suitable indicator of health below the age of twenty.")}
-else if(age>60){console.log("Body Mass Index is not a suitable indicator of health above age 60.")}
+young = (age<20) ? "Too young":"Old enough";
+old = (age>60) ? "Too old":"Young enough";
 //outliers excluded
+if(young=="Too young"){console.log("Body Mass Index is not a suitable indicator of health below the age of twenty.")}
+else if(old=="Too old"){console.log("Body Mass Index is not a suitable indicator of health above age 60.")}
+
 else{
     //get weight
 weight = prompt ("What is your weight? (in Kilograms)");
