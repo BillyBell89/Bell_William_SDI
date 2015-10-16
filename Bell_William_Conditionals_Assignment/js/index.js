@@ -3,6 +3,9 @@
 
 //Body mass index
 age = prompt ("What is your age?");
+if(age==""||age=="0"){console.log("You must enter a age!")}
+else{
+    console.log("You entered a age of "+ age +" years old.")}
 //exclude outliers
 young = (age<20) ? "Too young":"Old enough";
 old = (age>60) ? "Too old":"Young enough";
