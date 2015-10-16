@@ -3,7 +3,7 @@
 
 //Body mass index
 age = prompt ("What is your age?");
-if(age==""||age=="0"){console.log("You must enter a age!")}
+if(age==""||age=="0"){console.log("You must enter an age!")}
 else{
     console.log("You entered an age of "+ age +" years old.")}
 //exclude outliers
