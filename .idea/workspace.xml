@@ -547,7 +547,13 @@
       <option name="project" value="LOCAL" />
       <updated>1444958689286</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Expressions Assignment">
+      <created>1444959864762</created>
+      <option name="number" value="00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1444959864762</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
