@@ -3,8 +3,8 @@
 
 //Body mass index
 
-W = Prompt("What is your weight? (in Kilograms)");
-H = Prompt("What is your height? (in Meters)");
-if(W=0){console.log("Weight cannot be zero")};
-if(W=""){console.log("Please reload and enter a weight value")};
+var Weight = prompt ("What is your weight? (in Kilograms)");
+var Height = prompt("What is your height? (in Meters)");
+if(Weight=0){console.log("Weight cannot be zero")};
+if(Weight=""){console.log("Please reload and enter a weight value")};
 
