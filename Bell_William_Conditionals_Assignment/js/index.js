@@ -14,12 +14,13 @@ if(height==""||height=="0"){console.log("You must enter a height!")}
 else{
     console.log("You entered a height of "+ height +" kilograms.")}
 //conditional check for possible errors
-if(height<=weight){console.log("Please recheck your inputs for accuracy.")}
-else{
+if([weight<=height]==true) {console.log("Please recheck your inputs for accuracy.")}
 //ensure integers for variables
 parseInt(weight);
-parseInt(height)}
-BMI = ((weight/height)/height);
+parseInt(height);
+
+BMI = [(weight/height)/height];
+
 console.log("Your body mass index is " + parseInt(BMI) + ".");
 
 
