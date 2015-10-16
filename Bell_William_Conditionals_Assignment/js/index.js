@@ -3,16 +3,20 @@
 
 //Body mass index
 age = prompt ("What is your age?");
+//exclude outliers
 if(age<20){console.log("Body Mass Index is not a suitable indicator of health below the age of twenty.")}
 else if(age>60){console.log("Body Mass Index is not a suitable indicator of health above age 60.")}
+//outliers excluded
 else{
+    //get weight
 weight = prompt ("What is your weight? (in Kilograms)");
+    //get height
 height = prompt("What is your height? (in Meters)");
 //don't accept empty or 0 variable
 if(weight==""||weight=="0"){console.log("You must enter a weight!")}
 else{
 console.log("You entered a weight of "+ weight +" kilograms.")}
-
+//don't accept empty or 0 variable
 if(height==""||height=="0"){console.log("You must enter a height!")}
 else{
     console.log("You entered a height of "+ height +" meters.")}
@@ -23,9 +27,9 @@ else {
     parseInt(weight);
     parseInt(height);
 }
-
+//calculate BMI
 BMI = (weight/height)*(1/height);
-
+//log result of calculation
 console.log("Your body mass index is " + BMI + ".")
 }
 console.log("Results:I entered an age of 15 and got the message 'Body Mass Index is not a suitable indicator of health below the age of twenty.'");
