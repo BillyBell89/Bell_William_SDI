@@ -6,15 +6,18 @@
 weight = prompt ("What is your weight? (in Kilograms)");
 height = prompt("What is your height? (in Meters)");
 //don't accept empty variable
-if(weight=""){console.log("You must enter a weight!")}
+if(weight==""||weight=="0"){console.log("You must enter a weight!")}
 else{
-    parseInt(weight)
-}
+console.log("You entered a weight of "+ weight +" kilograms.")}
 
-if(height=""){console.log("You must enter a Height!")}
+if(height==""||height=="0"){console.log("You must enter a height!")}
 else{
-    parseInt(height)}
+    console.log("You entered a height of "+ height +" kilograms.")}
+parseInt(weight);
+parseInt(height);
+BMI = ((weight/height)/height);
+console.log("Your body mass index is " + parseInt(BMI) + ".");
 
-console.log(weight*height);
+
 
 
