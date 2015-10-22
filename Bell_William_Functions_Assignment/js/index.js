@@ -3,3 +3,8 @@
  */
 //William Bell
 //SDI Section 1
+
+function functionName () {console.log("This function works")
+}
+
+
