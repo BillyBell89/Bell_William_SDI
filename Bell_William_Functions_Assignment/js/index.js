@@ -27,12 +27,10 @@
 //function powerBall(P1,P2,P3,P4,P5,PB){
 //}
 
-var whichLotto = prompt("Which lottery numbers would you like to retrieve?('Florida', 'Powerball', or 'Both'");
-
-if (whichLotto!="Florida"&&whichLotto!="Powerball"&&whichLotto!="Both"){prompt("Which lottery numbers would you like to retrieve?('Florida', 'Powerball', or 'Both'")}
+while (whichLotto!="Florida"&&whichLotto!="Powerball"&&whichLotto!="Both"){var whichLotto = prompt("Which lottery numbers would you like to retrieve?('Florida', 'Powerball', or 'Both'")}
 
 //Create function to pull lotto numbers and print them to console
-else {
+
     if (whichLotto == "Florida" || whichLotto == "Both") {
         function flLotto(F1, F2, F3, F4, F5, F6) {
             if ([F1 != F2 || F3 || F4 || F5 || F6] && [F2 != F3 || F4 || F5 || F6] && [F3 != F4 || F5 || F6] && [F4 != F5 || F6] && [F5 != F6]) {
@@ -58,4 +56,4 @@ else {
         pbLotto((Math.floor(Math.random() * 59) + 1), (Math.floor(Math.random() * 59) + 1), (Math.floor(Math.random() * 59) + 1),
             (Math.floor(Math.random() * 59) + 1), (Math.floor(Math.random() * 59) + 1), (Math.floor(Math.random() * 35) + 1))
     }
-}
+

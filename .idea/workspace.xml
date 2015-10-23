@@ -59,11 +59,9 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21524663">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#37#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.40358743">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -351,12 +349,6 @@
       <created>1443561339850</created>
       <option name="number" value="Default" />
       <updated>1443561339850</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Expressions Assignment">
-      <created>1443837169648</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1443837169648</updated>
     </task>
     <task id="LOCAL-00017" summary="Expressions Assignment">
       <created>1443837232885</created>
@@ -646,7 +638,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445569301361</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Expressions Assignment">
+      <created>1445569400446</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1445569400446</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -987,11 +985,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21524663">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.40358743">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
