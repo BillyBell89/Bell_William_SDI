@@ -29,8 +29,9 @@
 
 var whichLotto = prompt("Which lottery numbers would you like to retrieve?('Florida', 'Powerball', or 'Both'");
 
+if (whichLotto!="Florida"||whichLotto!="Florida"||whichLotto!="Florida"){prompt("Which lottery numbers would you like to retrieve?('Florida', 'Powerball', or 'Both'")}
 //Create function to pull lotto numbers and print them to console
-if(whichLotto=="Florida") {
+if(whichLotto=="Florida"||whichLotto=="Both") {
     function flLotto(F1, F2, F3, F4, F5, F6) {
         if ([F1 != F2 || F3 || F4 || F5 || F6] && [F2 != F3 || F4 || F5 || F6] && [F3 != F4 || F5 || F6] && [F4 != F5 || F6] && [F5 != F6]) {
             console.log("Florida lotto numbers are " + F1 + ", " + F2 + ", " + F3 + ", " + F4 + ", " + F5 + ", and the final number is " + F6)
@@ -43,7 +44,7 @@ if(whichLotto=="Florida") {
         (Math.floor(Math.random() * 53) + 1), (Math.floor(Math.random() * 53) + 1), (Math.floor(Math.random() * 53) + 1));
 }
 //Create function to pull powerball lotto numbers and print them to console
-if(whichLotto=="Powerball"){
+if(whichLotto=="Powerball"||whichLotto=="Both"){
 function pbLotto(P1,P2,P3,P4,P5,PB) {
     if ([P1!=P2||P3||P4||P5]&&[P2!=P3||P4||P5]&&[P3!=P4||P5]&&[P4!=P5]) {
         console.log("Powerball lotto numbers are " + P1 + ", " + P2 + ", " + P3 + ", " + P4 + ", " + P5 + ", and the powerball is " + PB)
