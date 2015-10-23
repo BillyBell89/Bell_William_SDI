@@ -29,13 +29,7 @@
 
 //Create function to pull lotto numbers and print them to console
 function flLotto(F1,F2,F3,F4,F5,F6){
-    console.log(F1);
-    console.log(F2);
-    console.log(F3);
-    console.log(F4);
-    console.log(F5);
-    console.log(F6);
-
+   console.log("Florida lotto numbers are "+ F1+ ", "+ F2+", "+F3+", "+F4+", "+F5+", and the final number is "+F6)
 }
 //create arguments using math.floor,math.random to generate numbers up to 54
 flLotto((Math.floor(Math.random()*53)+1),(Math.floor(Math.random()*53)+1),(Math.floor(Math.random()*53)+1),
@@ -43,7 +37,7 @@ flLotto((Math.floor(Math.random()*53)+1),(Math.floor(Math.random()*53)+1),(Math.
 
 //Create function to pull powerball lotto numbers and print them to console
 function pbLotto(P1,P2,P3,P4,P5,PB){
-    console.log("Lotto numbers are "+ P1+ ", "+ P2+", "+P3+", "+P4+", "+P5+", and the powerball is"+PB);
+    console.log("Powerball lotto numbers are "+ P1+ ", "+ P2+", "+P3+", "+P4+", "+P5+", and the powerball is "+PB);
 
 }
 //create arguments using math.floor,math.random to generate numbers up to 59, PB up to 35
