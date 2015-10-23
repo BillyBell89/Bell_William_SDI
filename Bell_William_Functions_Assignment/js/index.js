@@ -29,7 +29,7 @@
 
 var whichLotto = prompt("Which lottery numbers would you like to retrieve?('Florida', 'Powerball', or 'Both'");
 
-if (whichLotto!="Florida"||whichLotto!="Powerball"||whichLotto!="Both"){prompt("Which lottery numbers would you like to retrieve?('Florida', 'Powerball', or 'Both'")}
+if (whichLotto!="Florida"&&whichLotto!="Powerball"&&whichLotto!="Both"){prompt("Which lottery numbers would you like to retrieve?('Florida', 'Powerball', or 'Both'")}
 
 //Create function to pull lotto numbers and print them to console
 else {
