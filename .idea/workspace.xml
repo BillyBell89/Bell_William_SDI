@@ -59,10 +59,10 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8534202">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.9103139">
+              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc;n#flLotto#0" expanded="false" />
+                <element signature="e#0#37#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -352,12 +352,6 @@
       <option name="number" value="Default" />
       <updated>1443561339850</updated>
     </task>
-    <task id="LOCAL-00012" summary="Output Assignment">
-      <created>1443740450080</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1443740450080</updated>
-    </task>
     <task id="LOCAL-00013" summary="Output Assignment">
       <created>1443740696678</created>
       <option name="number" value="00013" />
@@ -646,7 +640,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445566408897</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Expressions Assignment">
+      <created>1445568387399</created>
+      <option name="number" value="00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1445568387399</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -987,10 +987,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8534202">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.9103139">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc;n#flLotto#0" expanded="false" />
+            <element signature="e#0#37#0" expanded="false" />
           </folding>
         </state>
       </provider>
