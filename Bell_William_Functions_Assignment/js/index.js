@@ -10,21 +10,33 @@
     //console.log(diceThrow);
 //}
 
-var whichLotto = prompt ('Which lotto would you like numbers for? (Type "Florida" or "Powerball"');
+//var whichLotto = prompt ('Which lotto would you like numbers for? (Type "Florida" or "Powerball"');
 
-if (whichLotto=="Florida"){console.log("Florida")}
-if (whichLotto=="Powerball"){console.log("Powerball")}
+//if (whichLotto=="Florida"){console.log("Florida")}
+//if (whichLotto=="Powerball"){console.log("Powerball")}
 
-while(whichLotto!="Florida" || whichLotto) {prompt('Which lotto would you like numbers for? (Type "Florida" or "Powerball"')}
+//while(whichLotto!="Florida" || whichLotto) {prompt('Which lotto would you like numbers for? (Type "Florida" or "Powerball"')}
 
-function calcArea(w, h) {
-    var area = w * h;
-    console.log(area);
-    return area;
+//function calcArea(w, h) {
+  //  var area = w * h;
+  //  console.log(area);
+  //  return area;
+//}
+//var a = calcArea(20,30);
+
+//function powerBall(P1,P2,P3,P4,P5,PB){
+//}
+
+function flLotto(F1,F2,F3,F4,F5,F6){
+    console.log(F1);
+    console.log(F2);
+    console.log(F3);
+    console.log(F4);
+    console.log(F5);
+    console.log(F6);
+
 }
-var a = calcArea(20,30);
 
-function powerBall(P1,P2,P3,P4,P5,PB){
-}
+flLotto((Math.floor(Math.random()*53)+1),(Math.floor(Math.random()*53)+1),(Math.floor(Math.random()*53)+1),
+    (Math.floor(Math.random()*53)+1),(Math.floor(Math.random()*53)+1),(Math.floor(Math.random()*53)+1));
 
-function flLotto(F1,F2,F3,F4,F5,F6)
