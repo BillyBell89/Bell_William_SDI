@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51a9ec36-de16-469d-add9-50f85776fa21" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loops/Loops.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js" afterPath="$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -60,8 +59,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44843048">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.5381166">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
               <folding>
                 <element signature="e#0#37#0" expanded="false" />
               </folding>
@@ -73,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/Loops/Loops.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="16" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="16" />
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="24" />
               <folding>
                 <element signature="e#0#37#0" expanded="false" />
               </folding>
@@ -352,12 +351,6 @@
       <created>1443561339850</created>
       <option name="number" value="Default" />
       <updated>1443561339850</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Output Assignment">
-      <created>1443736545350</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1443736545350</updated>
     </task>
     <task id="LOCAL-00006" summary="Output Assignment">
       <created>1443736661343</created>
@@ -647,7 +640,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445536889627</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Expressions Assignment">
+      <created>1445564275061</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1445564275061</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -971,7 +970,7 @@
     <entry file="file://$PROJECT_DIR$/Loops/Loops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="16" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="16" />
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="24" />
           <folding>
             <element signature="e#0#37#0" expanded="false" />
           </folding>
@@ -988,8 +987,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44843048">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.5381166">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
           <folding>
             <element signature="e#0#37#0" expanded="false" />
           </folding>

@@ -17,9 +17,14 @@ if (whichLotto=="Powerball"){console.log("Powerball")}
 
 while(whichLotto!="Florida" || whichLotto) {prompt('Which lotto would you like numbers for? (Type "Florida" or "Powerball"')}
 
-function calcArea(w, h){
+function calcArea(w, h) {
     var area = w * h;
-    console.log(area)
+    console.log(area);
     return area;
+}
+var a = calcArea(20,30);
 
+function powerBall(P1,P2,P3,P4,P5,PB){
+}
 
+function flLotto(F1,F2,F3,F4,F5,F6)
