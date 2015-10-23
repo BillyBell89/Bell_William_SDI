@@ -59,8 +59,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8654708">
-              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6824104">
+              <caret line="45" column="104" selection-start-line="45" selection-start-column="104" selection-end-line="45" selection-end-column="104" />
               <folding>
                 <element signature="n#!!doc;n#flLotto#0" expanded="false" />
               </folding>
@@ -352,12 +352,6 @@
       <option name="number" value="Default" />
       <updated>1443561339850</updated>
     </task>
-    <task id="LOCAL-00009" summary="Output Assignment">
-      <created>1443738648803</created>
-      <option name="number" value="00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1443738648803</updated>
-    </task>
     <task id="LOCAL-00010" summary="Output Assignment">
       <created>1443738713030</created>
       <option name="number" value="00010" />
@@ -646,7 +640,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445565651530</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Expressions Assignment">
+      <created>1445565915471</created>
+      <option name="number" value="00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1445565915471</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -987,8 +987,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bell_William_Functions_Assignment/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8654708">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6824104">
+          <caret line="45" column="104" selection-start-line="45" selection-start-column="104" selection-end-line="45" selection-end-column="104" />
           <folding>
             <element signature="n#!!doc;n#flLotto#0" expanded="false" />
           </folding>
